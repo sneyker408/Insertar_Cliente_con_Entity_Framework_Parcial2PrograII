@@ -1,0 +1,12 @@
+C:\Users\sneyk\source\repos\EFBeta\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\Users\sneyk\source\repos\EFBeta\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\sneyk\source\repos\EFBeta\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\sneyk\source\repos\EFBeta\AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\sneyk\source\repos\EFBeta\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sneyk\source\repos\EFBeta\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\sneyk\source\repos\EFBeta\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sneyk\source\repos\EFBeta\AccesoDatos\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\sneyk\source\repos\EFBeta\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\sneyk\source\repos\EFBeta\AccesoDatos\obj\Debug\AccesoDa.B2719C34.Up2Date
+C:\Users\sneyk\source\repos\EFBeta\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\sneyk\source\repos\EFBeta\AccesoDatos\obj\Debug\AccesoDatos.pdb
